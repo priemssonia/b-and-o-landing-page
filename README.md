@@ -5,7 +5,7 @@
 - [LINK TO LAYOUT](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-211&t=BH7q0FWe857laVfa-1)
 
 ## **Project Overview**
-This is a single-page landing page for Bose, designed to showcase the company’s products and enhance user interaction. The page includes information about the latest products, features interactive elements, and is fully responsive across all device types.
+This is a single-page landing page for Bang & Olufsen, designed to showcase the company’s products and enhance user interaction. The page includes information about the latest products, features interactive elements, and is fully responsive across all device types.
 
 ## **To run this project locally:**
 
